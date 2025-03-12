@@ -61,7 +61,7 @@
 // // //     }
 // // // }
 // // // printTitle(datas)
-
+// make a function that accepts age and check if age>18 console.log ("yoy are make licence") or clg ("you cannot make a licience")
 // // function printAge(age){
 // //     if(age>18){
 // //         console.log("you are make license")
@@ -1040,7 +1040,7 @@
 // //       "userId": 8,
 // //       "id": 157,
 // //       "title": "dolorem veniam quisquam deserunt repellendus",
-// //       "completed": true
+// //       "completedss": true
 // //     },
 // //     {
 // //       "userId": 8,
